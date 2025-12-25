@@ -1,0 +1,6 @@
+boto3
+pika
+pytesseract
+pdf2image
+pillow
+python-dotenv
